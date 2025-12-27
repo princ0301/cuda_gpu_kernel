@@ -1,0 +1,4 @@
+CPU	~11.78 seconds
+CUDA Naive	123.9 ms
+Shared (16×16)	54.4 ms
+Shared (32×32 + O3)**	31.1 ms
